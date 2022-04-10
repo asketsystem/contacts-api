@@ -4,7 +4,7 @@
   "description": "Clean Architecture:TypeScript Express API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll --collectCoverage"
   },
   "author": "Franck Asket",
   "license": "ISC",
